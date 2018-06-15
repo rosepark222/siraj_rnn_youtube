@@ -1,4 +1,6 @@
 # change made
+OO
+aa
 # erp029:
 #Build a Recurrent Neural Net in 5 Min
 #https://www.youtube.com/watch?v=cdLUzrjnlr4
